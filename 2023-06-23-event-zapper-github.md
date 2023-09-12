@@ -8,7 +8,7 @@ pledges:
   - [0.005, Owen]
 currency: BTC
 contact: npub1am50jqjytzdtepftqfzf8grh2gs4wpt7d4t90zxc6z288wqazj5skdks29
-status: New
+status: claimed
 ---
 
 While attending the first ever Canadian Bitcoin Conference in Toronto, and listening to Derek Ross’s intro to Nostr talk - two things struck me:
