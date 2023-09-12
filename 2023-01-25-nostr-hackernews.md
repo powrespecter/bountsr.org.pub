@@ -9,7 +9,7 @@ pledges:
   - [0.03, Eric]
 currency: BTC
 contact: https://nvk.org/nostr
-status: New
+status: pending
 ---
 
 Build an mvp client/relay for a hackerne.ws replacement. 
